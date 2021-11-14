@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverestChallenge", "EverestChallenge\EverestChallenge.csproj", "{FC2A15E9-00CD-4347-90CE-6B51F00D359B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EverestChallenge.Tests", "EverestChallenge.Tests\EverestChallenge.Tests.csproj", "{7275353E-86AB-417F-B47D-ABAF57B8A70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC2A15E9-00CD-4347-90CE-6B51F00D359B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2A15E9-00CD-4347-90CE-6B51F00D359B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2A15E9-00CD-4347-90CE-6B51F00D359B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2A15E9-00CD-4347-90CE-6B51F00D359B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7275353E-86AB-417F-B47D-ABAF57B8A70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7275353E-86AB-417F-B47D-ABAF57B8A70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7275353E-86AB-417F-B47D-ABAF57B8A70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7275353E-86AB-417F-B47D-ABAF57B8A70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5F012D-8916-4E22-99C5-5DB8303EF778}
+	EndGlobalSection
+EndGlobal
