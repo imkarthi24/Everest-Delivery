@@ -13,6 +13,7 @@ of packages. It consists of two basic modules:
 - The Cost estimation service is a simple service which allows you to estimate costs for a given weight and distance based on a predifined formula
 - In addition to just calculating costs u can use coupon codes for providing further discounts
 - The Delivery Estimation system is built using Dynamic Programming. It effectively calculates the shortest way of delivering the packages in multiple shipments
+- Unit Tests have been provided,and SOLID principles followed
 
 
 ### Input
